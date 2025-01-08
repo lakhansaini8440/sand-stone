@@ -172,7 +172,7 @@ h4 {
 .container2 {
     width: 100%;
     /* Adjusted for responsiveness */
-    max-width: 1200px;
+    max-width: 1300px;
     /* Set max width */
     display: flex;
     flex-wrap: wrap;
